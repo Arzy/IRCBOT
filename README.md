@@ -1,4 +1,4 @@
 IRCBOT
 ======
 
-Simple IRC bot
+Simple IRC bot that I will use in Dancing Plastic.
